@@ -13,4 +13,5 @@ This project is an image chatbot built using Gemini 1.5 Flash and Streamlit. The
 - Streamlit
 - Gemini 1.5 Flash
 
+![user_interface](https://github.com/Jay5127/image_chatbot/blob/main/Screenshot%202024-09-28%20204106.png)
   
